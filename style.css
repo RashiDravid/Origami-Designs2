@@ -1,0 +1,45 @@
+body{
+    background-color: #808080;
+}
+h3{
+    display:flex;
+    justify-content: center; 
+}
+
+.header{
+    border: 100px;
+    display:flex;
+    justify-content: center;
+}
+.menu{
+    display:flex;
+    justify-content:center;
+}
+
+.animals{
+    padding: 1cm;
+    display:flex;
+    justify-content: center;
+}
+.camel{
+    margin: 5px;
+}
+.chameleon{
+    margin: 5px;
+}
+.cicada{
+    margin: 5px;
+}
+.panda{
+    margin: 5px;
+}
+.pigeon{
+    margin: 5px;
+}
+.teddy{
+    margin: 5px;
+}
+p{
+    font-size:25px;
+    text-align:center;
+}
